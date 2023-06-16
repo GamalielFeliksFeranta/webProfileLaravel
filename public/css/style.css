@@ -1,0 +1,20 @@
+body {
+    background-image:url("/img/Feliksdancewe.jpg");
+    background-repeat: no-repeat;  
+    background-size: cover;
+    background-position: center center;
+    
+}
+h1{
+    color:white;
+    text-align: center;
+    margin-top: 500px;
+    font-size: 60px;
+}
+
+h2{
+    color:white;
+    text-align: center;
+    font-size: 40px;
+}
+
